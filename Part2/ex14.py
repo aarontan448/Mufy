@@ -1,3 +1,3 @@
 countries = ["Malaysia","Japan","Armenia","Brazil","Australia"]
 for country in countries:
-    print(country)
+    print("Come and visit" +  " " + country)
